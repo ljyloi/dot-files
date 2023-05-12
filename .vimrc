@@ -118,6 +118,9 @@ Plug 'junegunn/fzf.vim'
 " coc.nvim
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 
+" surround.vim
+Plug 'tpope/vim-surround'
+
 " 插件结束的位置，插件全部放在此行上面
 call plug#end()
 
